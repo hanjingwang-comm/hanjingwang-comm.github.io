@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hanjng (Hannah) Wang|王涵菁"
+title                    : "Hanjng Wang|王涵菁"
 title_separator          : "-"
 name                     : &name "Hanjing Wang｜王涵菁"
 description              : &description "Hanjing Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hanjing Wang"
+  name             : "Hanjing (Hannah) Wang"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate at Hong Kong Baptist University"
   #location         : "Earth"
