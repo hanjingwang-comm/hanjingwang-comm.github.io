@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in School of Communication at [Hong Kong Baptist University] (https://comm.hkbu.edu.hk/). Before joining in the cohort of Communication, I obtained my bachelor's degree in Economics at Nanjing University and master'd degree in Economics at University of Wisconsin-Madison and Chinese University of Hong Kong-Shenzhen.
+I am a Ph.D. candidate in School of Communication at [Hong Kong Baptist University](https://comm.hkbu.edu.hk/). Before joining in the cohort of Communication, I obtained my bachelor's degree in Economics at Nanjing University and master'd degree in Economics at University of Wisconsin-Madison and Chinese University of Hong Kong-Shenzhen.
 
 My research interests are computational social science and social scripts in human-machine communication. I am lucky to be mentored by Prof. Stephanie Jean Tsang and Dr. Andrew Gambino. Currently, I'm working on projects on human-machine romantic relationships. Feel free to reach out if you are also interested!
 
