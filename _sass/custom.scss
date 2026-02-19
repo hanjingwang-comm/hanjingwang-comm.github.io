@@ -287,7 +287,9 @@ a:hover {
     color: var(--color-accent);
     flex-shrink: 0;
     width: 1em;
-    text-align: center;
+    font-size: 0.9em;
+    line-height: 1;
+    vertical-align: baseline;
     transition: color var(--transition-fast);
   }
 
