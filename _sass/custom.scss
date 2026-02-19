@@ -258,7 +258,6 @@ a:hover {
     margin-bottom: 0.5rem;
   }
 
-  .author__desktop,
   a {
     display: flex;
     align-items: flex-start;
@@ -268,9 +267,6 @@ a:hover {
     color: var(--color-text);
     line-height: 1.5;
     padding: 0.25rem 0;
-  }
-
-  a {
     text-decoration: none;
     transition: color var(--transition-fast), transform var(--transition-fast);
   }
@@ -280,7 +276,6 @@ a:hover {
     transform: translateX(3px);
   }
 
-  .author__desktop i,
   a i {
     color: var(--color-accent);
     flex-shrink: 0;
