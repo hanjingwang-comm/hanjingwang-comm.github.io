@@ -142,22 +142,15 @@ a:hover {
 
 .page__content {
   p {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     line-height: 1.8;
     margin-bottom: 1.5rem;
     color: var(--color-text);
   }
 
-  /* Intro paragraph styling */
-  > p:first-of-type {
-    font-size: 1.25rem;
-    line-height: 1.75;
-    color: var(--color-text);
-  }
-
   /* List styling */
   ul, ol {
-    font-size: 1.05rem;
+    font-size: 1rem;
     line-height: 1.8;
     margin-bottom: 1.5rem;
     padding-left: 1.5rem;
@@ -204,6 +197,12 @@ a:hover {
   font-weight: 600;
 }
 
+/* Highlight award names specifically */
+.page__content h2:nth-of-type(2) + ul li strong {
+  color: #B8860B;
+  font-weight: 700;
+}
+
 /* Sidebar Enhancements
    ========================================================================== */
 
@@ -221,17 +220,31 @@ a:hover {
   }
 
   .author__name {
-    font-family: var(--font-heading);
-    font-size: 1.35rem;
+    font-family: var(--font-body);
+    font-size: 1.1rem;
     font-weight: 600;
     color: var(--color-text);
-    letter-spacing: -0.01em;
+    letter-spacing: 0;
   }
 
   .author__bio {
+    font-family: var(--font-body);
     font-size: 0.95rem;
     line-height: 1.6;
+    color: var(--color-text);
+  }
+
+  .author__pronouns {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
     color: var(--color-text-light);
+  }
+
+  p, li {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    color: var(--color-text);
+    line-height: 1.6;
   }
 }
 
@@ -241,8 +254,9 @@ a:hover {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    font-size: 0.95rem;
-    color: var(--color-text-light);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    color: var(--color-text);
     text-decoration: none;
     padding: 0.35rem 0;
     transition: color var(--transition-fast), transform var(--transition-fast);
@@ -379,7 +393,7 @@ button:focus-visible {
     font-size: 1.5rem;
   }
 
-  .page__content p:first-of-type {
-    font-size: 1.1rem;
+  .sidebar .author__name {
+    font-size: 1rem;
   }
 }
