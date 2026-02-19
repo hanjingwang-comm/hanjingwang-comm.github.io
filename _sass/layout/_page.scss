@@ -55,6 +55,13 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
+  /* Homepage intro paragraph - larger, more prominent */
+  > p:first-of-type {
+    font-size: 1.15em;
+    line-height: 1.75;
+    margin-bottom: 1.75em;
+  }
+
   p, li, dl {
     font-size: 1em;
   }
