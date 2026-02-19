@@ -254,22 +254,24 @@ a:hover {
     font-family: var(--font-body);
     font-size: 0.9rem;
     text-align: left;
+    white-space: normal;
+    margin-bottom: 0.5rem;
   }
 
-  a,
-  .author__desktop {
-    display: inline-flex;
-    align-items: center;
+  .author__desktop,
+  a {
+    display: flex;
+    align-items: flex-start;
     gap: 0.5rem;
     font-family: var(--font-body);
     font-size: 0.9rem;
     color: var(--color-text);
-    text-align: left;
+    line-height: 1.5;
+    padding: 0.25rem 0;
   }
 
   a {
     text-decoration: none;
-    padding: 0.35rem 0;
     transition: color var(--transition-fast), transform var(--transition-fast);
   }
 
@@ -278,8 +280,12 @@ a:hover {
     transform: translateX(3px);
   }
 
+  .author__desktop i,
   a i {
     color: var(--color-accent);
+    flex-shrink: 0;
+    width: 1em;
+    text-align: center;
     transition: color var(--transition-fast);
   }
 
