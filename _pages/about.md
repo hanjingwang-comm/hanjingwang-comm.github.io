@@ -21,8 +21,8 @@ Some of my previous works were accepted/published in distinguished venues in com
 
 ## Honors and Awards
 
-- **Madam Kwok Chung Bo Fun PhD Student Research Excellence Awards**, HKBU (2024)
-- **Dean's List**, CUHK-Shenzhen (2022)
-- **Admission Scholarship**, CUHK-Shenzhen & UW-Madison (2020)
+- **Madam Kwok Chung Bo Fun PhD Student Research Excellence Awards**, Hong Kong Baptist University (2024)
+- **Dean's List**, Chinese University of Hong Kong-Shenzhen (2022)
+- **Admission Scholarship**, University of Wisconsin-Madison & Chinese University of Hong Kong-Shenzhen (2020)
 - **Freshmen Scholarship**, Nanjing University, 1st place among provincial admissions (2015)
 - **Honorable Mention Award**, MCM/ICM (2018)
