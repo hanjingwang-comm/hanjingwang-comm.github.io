@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "5e44fb5edddccc2f26bdb3f27a4e4e72.JPG"
   name             : "Hanjing (Hannah) Wang"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate at Hong Kong Baptist University"
